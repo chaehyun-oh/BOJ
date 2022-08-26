@@ -1,4 +1,4 @@
-from audioop import avg
+
 import sys
 
 sys.stdin = open('input01.txt')
