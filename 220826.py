@@ -1,7 +1,4 @@
 from pprint import pprint
-
-
-from pprint import pprint
 import sys
 
 sys.stdin = open('input01.txt')
