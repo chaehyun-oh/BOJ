@@ -100,10 +100,3 @@ for tc in range(1, T+1):
         ans += chr(d)
 
     print(f'#{tc} {ans}')
-
-# swea 1940
-# swea 1945
-# swea
-# swea
-# swea
-# swea
