@@ -59,11 +59,3 @@ for tc in range(1, T+1):
             else:
                 ans += mon[i]
     print(f'#{tc} {ans+1}')
-
-
-# swea 1954
-
-# swea 1959
-# swea 1961
-# swea 1966
-# swea 1970
