@@ -104,6 +104,3 @@ for tc in range(1, T+1):
     print(f'#{tc} {maxV}')
 
 
-# swea 1961
-# swea 1966
-# swea 1970
