@@ -120,6 +120,3 @@ for tc in range(1, T+1):
     matrix = [list(map(int, input().split())) for _ in range(n)]
     ans = chkSDK(matrix)
     print(f'#{tc} {ans}')
-
-# swea 1976
-# swea 1979
