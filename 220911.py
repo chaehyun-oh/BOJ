@@ -1,7 +1,5 @@
 from pprint import pprint
 import sys
-from tkinter.tix import Tree
-from turtle import Turtle
 
 sys.stdin = open('input01.txt')
 
