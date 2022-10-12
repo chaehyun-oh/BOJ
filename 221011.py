@@ -1,6 +1,5 @@
 import sys
 
-
 sys.stdin = open("input01.txt")
 # swea 1234 비밀번호
 
